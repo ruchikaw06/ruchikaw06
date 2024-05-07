@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ruchikaw06
 - 👀 I’m interested in DATA ANALYST POSITION
 - 💞️ I’m looking to collaborate on interesting Data analysis Projects
-- 📫 You can reach me: Linkdin- https://www.linkedin.com/in/ruchika-wadatkar-9b493014a
--                       Email - ruchika06wadatkar@gmail.com
+- 📫 You can reach me: Linkdin- https://www.linkedin.com/in/ruchika-wadatkar-9b493014a OR Email - ruchika06wadatkar@gmail.com
 - 😄 Pronouns: She/ Her
 - ⚡ JUst fun with DATA
 
